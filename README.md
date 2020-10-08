@@ -32,5 +32,7 @@ Tenho 21 anos moro em Belo Horizonte - MG, sou amante de música, cinema e video
   <img align="left" alt="Maurício Lacerda - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauricioFe)](https://github.com/meuricioFe/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauricioFe&show_icons=true&theme=dark)](https://github.com/meuricioFe/github-readme-stats)
+
+
 
