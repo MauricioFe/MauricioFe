@@ -7,7 +7,8 @@ banco de dados realacional, arquitetura de software com UML e testes. Em um cont
 
 ## 📚 Hard Skills:
 
-   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Logo"> <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" alt="C# Logo">  
+   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript Logo"> 
+   <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" alt="C# Logo">  
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="Java Logo">  
    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="PHP Logo">  
    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Logo">  
@@ -24,10 +25,12 @@ banco de dados realacional, arquitetura de software com UML e testes. Em um cont
 Tenho 21 anos moro em Belo Horizonte - MG, sou amante de música, cinema e video games retrô, gosto muito de escrever, aprender coisas novas, exercícios físicos e bastante café.
 
 
-  Você pode me encontrar em:
+  # Você pode me encontrar em:
   <a href="https://www.linkedin.com/in/mauricioml04/">
   <img align="left" alt="Maurício Lacerda - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a><a href="mailto:mauricio.lacerdam@gmail.com">
   <img align="left" alt="Maurício Lacerda - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mauricioFe)](https://github.com/meuricioFe/github-readme-stats)
 
