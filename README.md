@@ -8,7 +8,7 @@ banco de dados realacional, arquitetura de software com UML e testes. Em um cont
 ## 📚 Hard Skills:
 <ul>
   <li> Vanilla JavaScript</li>
-  <li> https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white C#</li>
+  <li> <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=flat-square&logo=c%20sharp&logoColor=white" alt="C# Logo">  C#</li>
   <li> Java</li>
   <li> PHP</li>
   <li> HTML5, CSS3, Bootstrap, Materialize</li>
