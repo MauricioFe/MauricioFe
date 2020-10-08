@@ -12,12 +12,15 @@ banco de dados realacional, arquitetura de software com UML e testes. Em um cont
 Tenho 21 anos moro em Belo Horizonte - MG, sou amante de música, cinema e video games retrô, gosto muito de escrever, aprender coisas novas, exercícios físicos e bastante café.
 
 
+<center>
   <a href="https://www.linkedin.com/in/mauricioml04/">
   <img align="left" alt="Maurício Lacerda - Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
 </a><a href="mailto:mauricio.lacerdam@gmail.com">
   <img align="left" alt="Maurício Lacerda - Gmail" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Gmail.svg" />
 </a>
+   </center>
 
-![Mauricio Lacerda github stats](https://github-readme-stats.vercel.app/api?username=mauricioFe&show_icons=true&theme=radical)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofe&theme=radical)
+![Mauricio Lacerda github stats](https://github-readme-stats.vercel.app/api?username=mauricioFe&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofe&theme=radical)
 
 
