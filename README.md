@@ -13,7 +13,7 @@ Tenho 21 anos moro em Belo Horizonte - MG, sou amante de música, cinema e video
 
 ![MauricioFE GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciofe&count_private=true&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofe&layout=compact)](https://github.com/mauriciofe/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofe&theme=radical)](https://github.com/mauriciofe/github-readme-stats)
 
 
 
