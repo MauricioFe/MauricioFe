@@ -11,7 +11,9 @@ banco de dados realacional, arquitetura de software com UML e testes. Em um cont
 
 Tenho 21 anos moro em Belo Horizonte - MG, sou amante de música, cinema e video games retrô, gosto muito de escrever, aprender coisas novas, exercícios físicos e bastante café.
 
-![MauricioFE GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciofe&show_icons=true&theme=radical)
+![MauricioFE GitHub stats](https://github-readme-stats.vercel.app/api?username=mauriciofe&count_private=true&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofe&layout=compact)](https://github.com/mauriciofe/github-readme-stats)
 
 
 
