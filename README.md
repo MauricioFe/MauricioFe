@@ -11,8 +11,6 @@ banco de dados realacional, arquitetura de software com UML e testes. Em um cont
 
 Tenho 21 anos moro em Belo Horizonte - MG, sou amante de música, cinema e video games retrô, gosto muito de escrever, aprender coisas novas, exercícios físicos e bastante café.
 
-![Mauricio Lacerda github stats](https://github-readme-stats.vercel.app/api?username=mauricioFe&show_icons=true&theme=radical)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauriciofe&theme=radical">
 
 
 
