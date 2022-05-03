@@ -1,6 +1,6 @@
 
 # <center> Olá, venha conhecer um pouco sobre meus estudos e trabalho!! </center>
-Sou um desenvoldor desde 2018 onde iniciei os meus estudos. Atualmente estou sou competidor das olimpíadas do conhecimento pela FIEMG na ocupação 09 IT Software Solutions for Business 
+Sou um desenvolvedor desde 2018 onde iniciei os meus estudos. Atualmente estou sou competidor das olimpíadas do conhecimento pela FIEMG na ocupação 09 IT Software Solutions for Business 
 onde fui medalhista de ouro na etapa estadual, e estou em preparação para a fase nacional. A competição trabalha com sistemas desktop, mobile (android), desenvolvimento de api,
 banco de dados realacional, arquitetura de software com UML e testes. Em um contexto fora da olimpíadas eu estudo pensando em um futuro como desenvolvedor full stack web. 
 
